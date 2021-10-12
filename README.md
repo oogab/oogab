@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+<div align=right>
+  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oogab"/></a>
+</div>
+
+
 https://velog.io/@oogab
+
 
 <!--
 **oogab/oogab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
